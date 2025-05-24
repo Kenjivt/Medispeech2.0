@@ -911,11 +911,23 @@ In het algemeen was dit project zeer leerrijk: zowel op vlak van ontwerp, samenw
 --- 
 
 ## Marit Hocedez: 
+### Eerste en tweede semester
+In het eerste semester hadden we beter meteen gefocust op de validatie van ons idee in plaats van ons al te veel bezig te houden met de vormgeving. Tijdens de interviews had ik iets meer mogen doorvragen, wat ons mogelijk sneller tot bepaalde inzichten en beslissingen had kunnen brengen.
+In het tweede semester verliep de ontwikkeling van het project vlotter: de taken waren duidelijk onderverdeeld en elke component werd gestructureerd aangepakt.
 
-Ik vond het soms lastig om in de interviews echt te weten te komen waarom de verpleegkundige het ene beter vonden dan het andere en hierop door te vragen. Bij het ene interview ging dat al beter dan bij het andere en ondanks een goede voorbereiding van vragen, vond ik nadien dat ik over een bepaald onderwerp nog wat meer had moeten doorvragen. Dit had misschien kunnen bijdragen tot een beter eindresultaat. 
-Ook hadden we nog wat meer verscheidene en uitdagendere prototypes kunnen maken om zo nog wat meer de grenzen af te testen. Bij wave 2 waren we eerst te veel gefocust op details. Dit hebben we later echter wel nog deels aangepast en hebben we meer gefocust op het speech-to-text systeem en wat er daar bij komt kijken. 
+### Teamwerk
+We hebben geprobeerd om alle taken eerlijk te verdelen, zoals het afnemen van interviews. Zonder deze samenwerking was er waarschijnlijk een Wizard of Oz-testopstelling nodig geweest om het concept werkend te demonstreren. Dankzij het sterke teamwerk konden we echter verder gaan dan dat.
 
-Over het algemeen ben ik blij met waar we geraakt zijn. We hebben in het begin een goede planning gemaakt in Trello waar we alle taken (interviews, storyboard, reports) hebben verspreid over de tweede helft van het eerste semester. We hebben ons hier redelijk goed aan gehouden. Er was een goede samenwerking en de taken werden eerlijk verdeeld. Ik ben erg benieuwd naar hoe het product verder zal evolueren in het tweede semester. 
+### Technische uitwerking en prototypes
+Voor mij was het programmeren nieuw dit semester. Daardoor kon ik in het begin minder bijdragen aan dat onderdeel, maar ik heb veel bijgeleerd door bijvoorbeeld het display zelf te programmeren. Deze ervaring gaf me meer inzicht in hoe software en hardware samenwerken binnen een prototype.
+
+### Testen en interviews
+Als we gebruik hadden gemaakt van Wizard of Oz-testing, hadden we waarschijnlijk diepgaandere inzichten kunnen verwerven tijdens de testfase. De huidige technologische beperkingen zorgden soms voor frustratie of verwarring bij de testpersonen. Bovendien waren sommige deelnemers wat terughoudend, waardoor het moeilijk was om te beoordelen hoe gebruikers zich zouden gedragen zodra ze het systeem gewoon waren.
+
+### Vervolgonderzoek
+Hoe kunnen we speech-to-text-systemen verbeteren zodat ze ook dialectgebruik correct kunnen verwerken?
+
+Hoe kunnen we gebruikers voldoende vertrouwen geven dat vertrouwelijke informatie veilig en discreet wordt verwerkt binnen het systeem?
 
 ## Technische beschrijving
 
