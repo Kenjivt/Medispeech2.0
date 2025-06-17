@@ -27,6 +27,7 @@ Hieronder een visueel overzicht van het huidige prototype en de opstelling van d
 
   ![Afbeelding van WhatsApp op 2025-05-23 om 19 42 15_5ad31cb7](https://github.com/user-attachments/assets/7c4b8455-9b75-465b-b9d2-8b5d6550d691)
 </details>
+
 ## Moodboards
 
 Om de ontwerpvisie visueel te onderbouwen, werden twee aparte moodboards opgesteld: één gericht op kleur en vorm, en één op functionele aspecten. Deze moodboards vormen de basis voor zowel esthetische als technische keuzes binnen het ontwerpproces.
